@@ -1,0 +1,10 @@
+body ,html ,#root {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+
+}
+
+Canvas{
+    display: pink;
+}
